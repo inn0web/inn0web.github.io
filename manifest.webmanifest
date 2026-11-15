@@ -1,0 +1,13 @@
+{
+  "name": "inn0web",
+  "short_name": "inn0web",
+  "description": "Custom bots, automation, websites and Shopify stores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03080c",
+  "theme_color": "#03080c",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
